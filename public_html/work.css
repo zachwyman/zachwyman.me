@@ -3,7 +3,7 @@ body {
   margin-top: 0;
   margin-right: 0;
   background-image: url('http://zachwyman.me/Images/ShirtlessGrandCanyon.png');
-  background-size: cover;
+  background-size: contain;
   background-repeat: repeat-y;
 }
 

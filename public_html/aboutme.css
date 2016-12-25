@@ -1,10 +1,10 @@
 body {
-  margin-left: 0;
-  margin-top: 0;
-  margin-right: 0;
-  background-image: url('http://zachwyman.me/Images/IMG_5960.JPG');
-  background-size: cover;
-  background-repeat: repeat-y;
+    margin-left: 0;
+    margin-top: 0;
+    margin-right: 0;
+    background-image: url('http://zachwyman.me/Images/IMG_5960.JPG');
+    background-size: cover;
+    background-repeat: repeat-y;
 }
 
 .bigBlackBox {
@@ -46,23 +46,6 @@ body {
     border-radius: 25px;
     box-shadow: 10px 10px 5px black;
     float: right;
-}
-
-.image img {
-    padding: 5%;
-    width: 40%;
-    height: 80%;
-    float: right;
-}
-
-.image p {
-    margin-left: 5%;
-    margin-top: 5%;
-    float: left;
-    width: 45%;
-    color: white;
-    font-family: Modern, sans-serif;
-    font-size: 20;
 }
 
 @font-face {

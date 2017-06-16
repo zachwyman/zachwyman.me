@@ -1,5 +1,5 @@
 body {
-    background-image: url('http://zachwyman.me/Images/IMG_5960.JPG');
+    background-image: url('http://zachwyman.me/images/IMG_5960.JPG');
 }
 
 .bigBlackBox {
@@ -49,7 +49,7 @@ body {
     margin-top: 0.5%;
     margin-left: 0.5%;
     background: rgb(61,61,61);
-    background-image: url('http://zachwyman.me/Images/Portrait.JPG');
+    background-image: url('http://zachwyman.me/images/Portrait.JPG');
     background-size: cover;
     float: left;
     box-shadow: 10px 10px 5px black;
@@ -63,7 +63,7 @@ body {
     height: 48%;
     margin-top: 0.5%;
     margin-left: 1%;
-    background-image: url('http://zachwyman.me/Images/TigerPaw_co.jpg');
+    background-image: url('http://zachwyman.me/images/TigerPaw_co.jpg');
     background-size: cover;
     float: left;
     box-shadow: 10px 10px 5px black;
@@ -87,7 +87,7 @@ body {
     height: 48%;
     margin-top: 0.5%;
     margin-left: 1%;
-    background-image: url('http://zachwyman.me/Images/WymanZachResume2016.jpg');
+    background-image: url('http://zachwyman.me/images/WymanZachResume2016.jpg');
     background-size: cover;
     float: left;
     box-shadow: 10px 10px 5px black;

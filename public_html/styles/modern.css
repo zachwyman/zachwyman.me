@@ -40,58 +40,49 @@ body {
     margin-left: 10%;
     width: 80%;
     height: 75%;
-
 }
 
-.left {
-    width: 24%;
-    height: 48%;
+.blocks {
+    float: left;
+    box-shadow: 10px 10px 5px black;
+    border-radius: 25px;
+    width: 500px;
+    height: 500px;
+    margin-bottom: 1.5%;
+}
+
+#left {
     margin-top: 0.5%;
     margin-left: 0.5%;
     background: rgb(61,61,61);
     background-image: url('http://zachwyman.me/images/Portrait.JPG');
     background-size: cover;
-    float: left;
-    box-shadow: 10px 10px 5px black;
-    border-radius: 25px;
+
 }
 
 
 
-.middleLeft {
-    width: 24%;
-    height: 48%;
+#middleLeft {
     margin-top: 0.5%;
     margin-left: 1%;
     background-image: url('http://zachwyman.me/images/TigerPaw_co.jpg');
     background-size: cover;
-    float: left;
-    box-shadow: 10px 10px 5px black;
-    border-radius: 25px;
+
 }
 
-.middleRight {
-    width: 24%;
-    height: 48%;
+#middleRight {
     margin-top: 0.5%;
     margin-left: 1%;
     background-image: url('http://zachwyman.me/RayTracer/StarWarsRayTracer.jpg');
     background-size: cover;
-    float: left;
-    box-shadow: 10px 10px 5px black;
-    border-radius: 25px;
 }
 
-.right {
-    width: 24%;
-    height: 48%;
+#right {
     margin-top: 0.5%;
     margin-left: 1%;
     background-image: url('http://zachwyman.me/images/WymanZachResume2016.jpg');
     background-size: cover;
-    float: left;
-    box-shadow: 10px 10px 5px black;
-    border-radius: 25px;
+
 }
 
 @font-face {

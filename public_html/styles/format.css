@@ -37,7 +37,7 @@ body {
   margin-left: 0;
   margin-right: 0;
   margin-top: 0;
-  background-image: url("/public_html/images/Sunset.jpg");
+  background-image: url("/images/Sunset.jpg");
   background-repeat: repeat-y;
   background-size: cover;
 }
